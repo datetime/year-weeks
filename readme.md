@@ -69,7 +69,7 @@ Released under the [`MIT`][license-url] license.
 [mocha-url]: https://github.com/visionmedia/mocha
 
 [npmjs-url]: https://npm.im/year-weeks
-[npmjs-img]: http://img.shields.io/badge/npm%20module-v-brightgreen.svg
+[npmjs-img]: http://img.shields.io/npm/v/year-weeks.svg
 [npmjs-install]: https://nodei.co/npm/year-weeks.png?mini=true
 
 [license-url]: https://github.com/tunnckoCore/year-weeks/blob/master/license.md
