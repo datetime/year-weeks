@@ -1,12 +1,10 @@
 {
   "name": "year-weeks",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Get the number of weeks in year - leap or not.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -R spec",
-    "create-repo": "curl -u 'tunnckoCore' https://api.github.com/user/repos -d '{\"name\":\"year-weeks\"}'",
-    "remote-add": "git remote add origin git@github.com:tunnckoCore/year-weeks.git"
+    "test": "mocha -R spec"
   },
   "repository": "tunnckoCore/year-weeks",
   "keywords": [
