@@ -1,0 +1,45 @@
+{
+  "name": "year-weeks",
+  "version": "0.0.0",
+  "description": "Get the number of weeks in year - leap or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec",
+    "create-repo": "curl -u 'tunnckoCore' https://api.github.com/user/repos -d '{\"name\":\"year-weeks\"}'",
+    "remote-add": "git remote add origin git@github.com:tunnckoCore/year-weeks.git"
+  },
+  "repository": "tunnckoCore/year-weeks",
+  "keywords": [
+    "weeks",
+    "date",
+    "year",
+    "number",
+    "count",
+    "leap"
+  ],
+  "dependencies": {
+    "year-days": "*"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/tunnckoCore/year-weeks/blob/master/license.md"
+  }],
+  "author": {
+    "name": "Charlike Mike Reagent",
+    "email": "mameto_100@mail.bg",
+    "url": "http://www.whistle-bg.tk"
+  },
+  "maintainers": [{
+    "name": "Charlike Mike Reagent",
+    "email": "mameto_100@mail.bg",
+    "url": "http://www.whistle-bg.tk"
+  }],
+  "contributors": [{
+    "name": "Charlike Mike Reagent",
+    "email": "mameto_100@mail.bg",
+    "url": "http://www.whistle-bg.tk"
+  }]
+}
