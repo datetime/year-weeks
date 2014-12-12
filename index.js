@@ -1,5 +1,5 @@
-/*!
- * year-weeks <https://github.com/tunnckoCore/year-weeks>
+/**
+ * year-weeks <https://github.com/datetime/year-weeks>
  *
  * Copyright (c) 2014 Charlike Mike Reagent, contributors.
  * Released under the MIT license.

@@ -1,14 +1,13 @@
-# year-weeks [![NPM version][npmjs-img]][npmjs-url] [![Build Status][travis-img]][travis-url] [![Dependency Status][depstat-img]][depstat-url]
-
-> Get the number of weeks in year - leap or not.
+# year-weeks [![NPM version][npmjs-shields]][npmjs-url] [![Build Status][travis-img]][travis-url] [![Coveralls][coveralls-shields]][coveralls-url] [![datetime org][datetime-shields]][datetime-url]
+> Get the number of weeks in year - leap or not
 
 
 ## Install [![Nodei.co stats][npmjs-install]][npmjs-url] 
-
 > Install with [npm](https://npmjs.org)
 
 ```
 $ npm install year-weeks
+$ npm test
 ```
 
 
@@ -24,33 +23,12 @@ yearWeeks(2016);
 ```
 
 
-## Tests
-> As usual `npm test` **or** if you have [mocha][mocha-url] globally `mocha`
-
-```
-$ npm test
-```
+## [.yearWeeks(index.js#L45)
+- `[date]` **{Date|Number}** current year - passed to [`year-days`](https://github.com/sindresorhus/year-days)
 
 
-## API
-### yearWeeks([year])
-#### year
-
-Type: `number`  
-Default: current year
-
-### yearWeeks([date])
-
-#### date
-
-Type: `date`  
-Default: `new Date()`
-
-> **Note:** argument is passed to [`year-days`](https://github.com/sindresorhus/year-days)
-
-
-## Authors & Contributors [![author tips][author-gittip-img]][author-gittip]
-**Charlike Mike Reagent**
+## Authors & Contributors
+**Charlike Mike Reagent** [![author tips][author-gittip-img]][author-gittip]
 + [gittip/tunnckoCore][author-gittip]
 + [github/tunnckoCore][author-github]
 + [twitter/tunnckoCore][author-twitter]
@@ -58,24 +36,25 @@ Default: `new Date()`
 
 
 ## License [![MIT license][license-img]][license-url]
-Copyright (c) 2014 [Charlike Mike Reagent][author-website], [contributors](https://github.com/tunnckoCore/year-weeks/graphs/contributors).  
+Copyright (c) 2014 [Charlike Mike Reagent][author-website], [contributors](https://github.com/datetime/year-weeks/graphs/contributors).  
 Released under the [`MIT`][license-url] license.
 
 
-[mocha-url]: https://github.com/visionmedia/mocha
+[npmjs-url]: http://npm.im/youtube-regex
+[npmjs-shields]: http://img.shields.io/npm/v/youtube-regex.svg
+[npmjs-install]: https://nodei.co/npm/youtube-regex.svg?mini=true
 
-[npmjs-url]: https://npm.im/year-weeks
-[npmjs-img]: http://img.shields.io/npm/v/year-weeks.svg
-[npmjs-install]: https://nodei.co/npm/year-weeks.png?mini=true
+[coveralls-url]: https://coveralls.io/r/datetime/year-weeks?branch=master
+[coveralls-shields]: https://img.shields.io/coveralls/datetime/year-weeks.svg
 
-[license-url]: https://github.com/tunnckoCore/year-weeks/blob/master/license.md
+[license-url]: https://github.com/datetime/year-weeks/blob/master/license.md
 [license-img]: http://img.shields.io/badge/license-MIT-blue.svg
 
-[travis-url]: https://travis-ci.org/tunnckoCore/year-weeks
-[travis-img]: https://travis-ci.org/tunnckoCore/year-weeks.png?branch=master
+[travis-url]: https://travis-ci.org/datetime/year-weeks
+[travis-img]: https://travis-ci.org/datetime/year-weeks.svg
 
-[depstat-url]: https://david-dm.org/tunnckoCore/year-weeks
-[depstat-img]: https://david-dm.org/tunnckoCore/year-weeks.png
+[depstat-url]: https://david-dm.org/datetime/year-weeks
+[depstat-img]: https://david-dm.org/datetime/year-weeks.svg
 
 [author-gittip-img]: http://img.shields.io/gittip/tunnckoCore.svg
 [author-gittip]: https://www.gittip.com/tunnckoCore
@@ -84,3 +63,7 @@ Released under the [`MIT`][license-url] license.
 
 [author-website]: http://www.whistle-bg.tk
 [author-npmjs]: https://npmjs.org/~tunnckocore
+
+
+[datetime-shields]: http://img.shields.io/badge/datetime-approved-brightgreen.svg
+[datetime-url]: https://github.com/datetime
