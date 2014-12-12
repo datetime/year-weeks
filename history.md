@@ -1,5 +1,9 @@
+## v1.0.4 / December 12, 2014
+- makefile disappears?
+- tweaks
+
 ## v1.0.3 / December 12, 2014
-- fixes
+- tweaks, docs, dotgiles, etc
 
 ## v1.0.2 / December 12, 2014
 - fix badges
