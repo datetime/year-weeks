@@ -1,4 +1,4 @@
-# year-weeks [![NPM version][npmjs-shields]][npmjs-url] [![Build Status][travis-img]][travis-url] [![Coveralls][coveralls-shields]][coveralls-url] [![datetime org][datetime-shields]][datetime-url]
+# year-weeks [![NPM version][npmjs-shields]][npmjs-url] [![Build Status][travis-img]][travis-url] [![datetime org][datetime-shields]][datetime-url]
 > Get the number of weeks in year - leap or not
 
 

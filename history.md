@@ -1,3 +1,9 @@
+## v1.0.2 / December 12, 2014
+- fix badges
+
+## v1.0.1 / December 12, 2014
+- readme fix
+
 ## v1.0.0 / December 12, 2014
 - moved to [datetime org][datetime-url]
 - fix licenses

@@ -1,7 +1,7 @@
 {
   "name": "year-weeks",
   "description": "Get the number of weeks in year - leap or not",
-  "version": "0.1.0",
+  "version": "1.0.2",
   "scripts": {
     "test": "npm install && node_modules/.bin/mocha"
   },
