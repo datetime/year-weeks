@@ -23,7 +23,7 @@ yearWeeks(2016);
 ```
 
 
-## [.yearWeeks(index.js#L45)
+## [.yearWeeks](index.js#L13)
 - `[date]` **{Date|Number}** current year - passed to [`year-days`](https://github.com/sindresorhus/year-days)
 
 
@@ -40,9 +40,9 @@ Copyright (c) 2014 [Charlike Mike Reagent][author-website], [contributors](https
 Released under the [`MIT`][license-url] license.
 
 
-[npmjs-url]: http://npm.im/youtube-regex
-[npmjs-shields]: http://img.shields.io/npm/v/youtube-regex.svg
-[npmjs-install]: https://nodei.co/npm/youtube-regex.svg?mini=true
+[npmjs-url]: http://npm.im/year-weeks
+[npmjs-shields]: http://img.shields.io/npm/v/year-weeks.svg
+[npmjs-install]: https://nodei.co/npm/year-weeks.svg?mini=true
 
 [coveralls-url]: https://coveralls.io/r/datetime/year-weeks?branch=master
 [coveralls-shields]: https://img.shields.io/coveralls/datetime/year-weeks.svg
