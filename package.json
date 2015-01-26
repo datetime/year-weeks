@@ -1,6 +1,6 @@
 {
   "name": "year-weeks",
-  "version": "0.0.0",
+  "version": "1.0.4",
   "description": "Get the number of weeks in year - leap or not.",
   "scripts": {
     "lint": "jshint index.js && jscs index.js --reporter inline",
@@ -17,7 +17,23 @@
     "type": "git",
     "url": "git://github.com/datetime/year-weeks.git"
   },
-  "keywords": [],
+  "keywords": [
+    "count",
+    "counts",
+    "date",
+    "dates",
+    "datetime",
+    "leap",
+    "number",
+    "time",
+    "times",
+    "util",
+    "utils",
+    "week",
+    "weeks",
+    "year",
+    "years"
+  ],
   "license": {
     "type": "MIT",
     "url": "https://github.com/datetime/year-weeks/blob/master/license.md"
