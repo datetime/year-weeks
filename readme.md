@@ -3,8 +3,8 @@
 > Get the number of weeks in year - leap or not.
 
 ## Install
-```bash
-npm install year-weeks
+```
+npm i --save year-weeks
 npm test
 ```
 
@@ -76,6 +76,6 @@ Released under the [`MIT`][license-url] license.
 
 ***
 
-_Powered and automated by [kdf](https://github.com/tunnckoCore), January 26, 2015_
+_Powered and automated by [kdf](https://github.com/tunnckoCore), March 02, 2015_
 
 [year-days]: https://github.com/sindresorhus/year-days
