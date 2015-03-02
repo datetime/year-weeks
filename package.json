@@ -1,6 +1,6 @@
 {
   "name": "year-weeks",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Get the number of weeks in year - leap or not.",
   "scripts": {
     "lint": "jshint index.js && jscs index.js --reporter inline",

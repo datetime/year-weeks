@@ -1,5 +1,9 @@
 
 
+## v1.0.7 / March 02, 2015
+- Release v1.0.6 / npm@v1.0.7
+- run `update readme`
+
 ## v1.0.6 / March 02, 2015
 - Release v1.0.6 / npm@v1.0.6
 - bump deps
