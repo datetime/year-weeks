@@ -1,5 +1,10 @@
 
 
+## v1.0.6 / March 02, 2015
+- Release v1.0.6 / npm@v1.0.6
+- bump deps
+- fix/faster travis
+
 ## v1.0.5 / January 26, 2015
 - Release v1.0.5 / npm@v1.0.5
 - refactor
