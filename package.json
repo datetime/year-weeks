@@ -39,7 +39,7 @@
     "url": "https://github.com/datetime/year-weeks/blob/master/license.md"
   },
   "dependencies": {
-    "year-days": "~1.0.0"
+    "year-days": "~2.0.0"
   },
   "devDependencies": {
     "istanbul-harmony": "~0.3.1",
